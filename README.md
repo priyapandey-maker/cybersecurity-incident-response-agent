@@ -1,6 +1,6 @@
 # AI Agent for Cybersecurity Incident Response
 
-This project implements an AI-driven agent tailored for automated detection, investigation, and mitigation of cybersecurity incidents. The agent acts as an autonomous or semi-autonomous virtual security analyst, integrating with SIEM (Security Information and Event Management) tools, threat intelligence feeds, and incident response playbooks to accelerate triage and containment.
+This project implements an AI-driven agent tailored for automated detection, investigation, and mitigation of cybersecurity incidents. The agent acts as an autonomous or semi-autonomous virtual security analyst, integrating with Security Information and Event Management tools, threat intelligence feeds, and incident response playbooks to accelerate triage and containment.
 
 ## Repository Structure
 
@@ -13,11 +13,10 @@ The repository follows a structured layout for internship and production scaling
 
 ## Getting Started
 
-1. **Prerequisites**: Python 3.10+, Docker.
-2. **Setup**:
+1. **Setup**:
    - Clone this repository:
      ```bash
      git clone https://github.com/priyapandey-maker/cybersecurity-incident-response-agent.git
      ```
    - Navigate to the project root: `cd cybersecurity-incident-response-agent`.
-3. **Execution**: Detailed instructions will be updated under individual folders.
+2. **Execution**: Detailed instructions will be updated under individual folders.
