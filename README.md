@@ -19,6 +19,6 @@ The repository follows a structured layout for internship and production scaling
      ```bash
      git clone https://github.com/priyapandey-maker/cybersecurity-incident-response-agent.git
      ```
-   - Navigate to the project root: `cd u2u-internship-project`.
+   - Navigate to the project root: `cd cybersecurity-incident-response-agent`.
    - Install dependencies.
 3. **Execution**: Detailed instructions will be updated under individual folders.
