@@ -1,0 +1,23 @@
+[
+  {
+    "event_type": "phishing_email",
+    "sender": "security-update@amaz0n-support.com",
+    "subject": "Account Verification Required",
+    "attachment": null,
+    "severity": "Low"
+  },
+  {
+    "event_type": "phishing_email",
+    "sender": "verify@paypaI-security.com",
+    "subject": "Payment Failed",
+    "attachment": "statement.pdf",
+    "severity": "Medium"
+  },
+  {
+    "event_type": "phishing_email",
+    "sender": "support@fakebank-alert.com",
+    "subject": "Urgent Action Required",
+    "attachment": "invoice.zip",
+    "severity": "High"
+  }
+]

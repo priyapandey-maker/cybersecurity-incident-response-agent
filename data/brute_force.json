@@ -1,0 +1,23 @@
+[
+  {
+    "event_type": "failed_login",
+    "username": "admin",
+    "ip_address": "192.168.1.10",
+    "attempt_count": 15,
+    "severity": "Low"
+  },
+  {
+    "event_type": "failed_login",
+    "username": "root",
+    "ip_address": "192.168.1.25",
+    "attempt_count": 32,
+    "severity": "Medium"
+  },
+  {
+    "event_type": "failed_login",
+    "username": "manager",
+    "ip_address": "192.168.1.50",
+    "attempt_count": 55,
+    "severity": "High"
+  }
+]

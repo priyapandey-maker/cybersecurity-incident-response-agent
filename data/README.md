@@ -1,3 +1,42 @@
+# Cybersecurity Incident Dataset
+
+This folder contains synthetic cybersecurity events used for testing the AI Incident Response System.
+
+## Files
+
+### brute_force.json
+Contains failed login events used to simulate brute force attacks.
+
+Fields:
+- event_type
+- username
+- ip_address
+- attempt_count
+- severity
+
+### phishing.json
+Contains phishing email events.
+
+Fields:
+- event_type
+- sender
+- subject
+- attachment
+- severity
+
+### malware.json
+Contains suspicious file upload events.
+
+Fields:
+- event_type
+- filename
+- severity
+
+## Note
+
+All datasets are synthetic and created for educational purposes only.
+
+
 # Data Directory
 
 This directory is designated for datasets, raw logs, security reports, and parsed telemetry used by the Cybersecurity Incident Response AI Agent.
